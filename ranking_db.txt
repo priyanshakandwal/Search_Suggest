@@ -1,0 +1,10 @@
+file 9
+house 9
+happy 18
+word 2
+quick 10
+big 10
+fast 17
+sugg 8
+suggest 1
+large 8

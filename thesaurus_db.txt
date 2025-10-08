@@ -1,0 +1,5 @@
+happy: joyful, cheerful, elated
+big: large, enormous, huge
+fast: quick, rapid
+suggest: propose, recommend
+file: document, record
